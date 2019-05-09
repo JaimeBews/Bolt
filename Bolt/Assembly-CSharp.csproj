@@ -64,6 +64,7 @@
   <ItemGroup>
     <Compile Include="Assets\JB\Scripts\CameraControllerScript.cs" />
     <Compile Include="Assets\JB\Scripts\CharacterScript.cs" />
+    <Compile Include="Assets\JB\Scripts\FrisbeeScript.cs" />
     <Compile Include="Assets\JB\Scripts\RoomCreation.cs" />
     <Compile Include="Assets\JB\Scripts\RoomData.cs" />
     <Reference Include="Unity.Timeline.Editor">
